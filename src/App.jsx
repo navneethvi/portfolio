@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./index.css"; // Ensure you import the CSS file
 
 const App = () => {
